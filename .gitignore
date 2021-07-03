@@ -1,0 +1,11 @@
+# configuration
+.idea
+.xml
+.iml
+.config
+.properties
+packages
+
+# data
+.template
+.csv
