@@ -9,3 +9,6 @@ packages
 # data
 .template
 .csv
+
+# cache
+.ipynb_checkpoints
